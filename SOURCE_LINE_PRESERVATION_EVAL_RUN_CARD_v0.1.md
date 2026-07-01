@@ -1,8 +1,8 @@
 # Source-Line Preservation Eval Run Card v0.1
 
-**Repository:** ai-foundations-metrics
-**Status:** Evaluation Run Card
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
+**Repository:** ai-foundations-metrics   
+**Status:** Evaluation Run Card   
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum    
 
 ## Purpose
 
